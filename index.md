@@ -4,6 +4,10 @@ OmniConvert is a unit conversion calculator that allows you to easily convert be
 
 OmniConvert is completely free and works offline, with no conversion limits or size restrictions!
 
+### Privacy Policy
+
+In short, we don't store your data. Period.
+
 ### Support or Contact
 
 Do you have any feedback for OmniConvert? Email the team at omniconvertapp@gmail.com
